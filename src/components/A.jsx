@@ -6,7 +6,7 @@ import useStore from '../libs/store'
 export default function A({ children }){
    return(<div className="flex flex-col min-h-full">
       <Nav />
-      <div className="px-6 sm:p-12 flex-auto bg-gray-200 content-center">{children}</div>
+      <div className="p-6 sm:p-12 flex-auto bg-gray-200 content-center">{children}</div>
       <Footer />
    </div>)
 }
