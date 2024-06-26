@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# MainingHash Game developed with Thirdweb Framework / React.
 
-Currently, two official plugins are available:
+## Feel Free to Use This App Anyway
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+We encourage you to use, modify, and distribute our project. Whether you're looking to integrate it into your own projects, learn from it, or just play around with it, we welcome you to do so. Please remember to credit the original project if you find it helpful.
+
+Best Regards,
+Saken Zhuma
+
+saken.zhuma@gmail.com
+telegram: @rustnim
+Freelance / Full Stack Developer
+(PHP/JavaScript/Python/Java/AWS/Web3.0)
