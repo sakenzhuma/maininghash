@@ -1,6 +1,6 @@
 
-# MainingHash Game<br />
-### Developed with Thirdweb Framework / React.
+# Maining Hash Game<br />
+### Powered by Thirdweb Framework / React.
 
 ## Feel Free to Use This App Anyway
 
